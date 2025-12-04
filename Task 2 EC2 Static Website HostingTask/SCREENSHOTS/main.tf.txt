@@ -1,0 +1,57 @@
+# Provider
+terraform {
+  required_providers {
+    aws = {
+      source  = "hashicorp/aws"
+      version = "~> 5.0"
+    }
+  }
+
+  required_version = ">= 1.5.0"
+}
+
+provider "aws" {
+  region = "eu-north-1"
+}
+
+
+# EC2 Instance (Managed by Terraform)
+
+resource "aws_instance" "ec2_example" {
+  ami                    = "ami-0f50f13aefb6c0a5d"      # Provided AMI
+  instance_type          = "t3.micro"                   # Provided instance type
+  subnet_id              = "subnet-05679908f3de34dc3"   # Provided subnet
+  vpc_security_group_ids = ["sg-0290a81bcb028466e"]     # Provided security group
+  key_name               = "instances"                  # Provided key pair name
+
+  # Optional: Add tags as needed
+  tags = {
+    Name   = "managed-ec2-i-0096bcce81cc5dca8"
+    Owner  = "627146568361"
+    VpcId  = "vpc-07bdd3941d1d7411d"
+    Source = "terraform"
+  }
+}
+
+
+# Useful Outputs
+
+output "instance_id" {
+  description = "EC2 instance ID"
+  value       = aws_instance.ec2_example.id
+}
+
+output "instance_arn" {
+  description = "EC2 instance ARN"
+  value       = aws_instance.ec2_example.arn
+}
+
+output "instance_public_ip" {
+  description = "Public IP (if assigned)"
+  value       = aws_instance.ec2_example.public_ip
+}
+
+output "instance_private_ip" {
+  description = "Private IP"
+  value       = aws_instance.ec2_example.private_ip
+}
