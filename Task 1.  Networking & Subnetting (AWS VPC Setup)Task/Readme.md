@@ -61,3 +61,14 @@ The script provisions:
 - NAT Gateway with Elastic IP  
 - Public and Private Route Tables  
 - Routing rules and associations  
+
+# Vpc screenshot
+![Vpc](https://github.com/vivekyadav03/Flentas_assignment/blob/main/Screenshots/Vpc.png)
+# Subnet screenshot
+![Subnet](https://github.com/vivekyadav03/Flentas_assignment/blob/main/Screenshots/Subnets_Publicandprivate.png)
+# internet gateway screenshot
+![internet gateway](https://github.com/vivekyadav03/Flentas_assignment/blob/main/Screenshots/Internet_gateway.png)
+# Route table screenshot
+![route table](https://github.com/vivekyadav03/Flentas_assignment/blob/main/Screenshots/Route_tables.png)
+# nat gateway screenshot
+![nat gateway](https://github.com/vivekyadav03/Flentas_assignment/blob/main/Screenshots/Nat_gateway.png)
