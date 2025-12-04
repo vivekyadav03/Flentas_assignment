@@ -34,10 +34,10 @@ This repository can be used for:
 ![EC2](https://github.com/vivekyadav03/Flentas_assignment/blob/main/Task%202%20EC2%20Static%20Website%20HostingTask/SCREENSHOTS/EC2.png)
 
 ### Nginx Screenshot AWS
-![EC2](https://github.com/vivekyadav03/Flentas_assignment/blob/main/Task%202%20EC2%20Static%20Website%20HostingTask/SCREENSHOTS/Nginx.png)
+![Nginx](https://github.com/vivekyadav03/Flentas_assignment/blob/main/Task%202%20EC2%20Static%20Website%20HostingTask/SCREENSHOTS/Nginx.png)
 
 ### Resume_hosting_site Screenshot AWS
-![EC2](https://github.com/vivekyadav03/Flentas_assignment/blob/main/Task%202%20EC2%20Static%20Website%20HostingTask/SCREENSHOTS/resume_hosting%20site.png)
+![Resume](https://github.com/vivekyadav03/Flentas_assignment/blob/main/Task%202%20EC2%20Static%20Website%20HostingTask/SCREENSHOTS/resume_hosting%20site.png)
 
 ### Security groups AWS
-![EC2](https://github.com/vivekyadav03/Flentas_assignment/blob/main/Task%202%20EC2%20Static%20Website%20HostingTask/SCREENSHOTS/Securtiy%20group.png)
+![Security groups](https://github.com/vivekyadav03/Flentas_assignment/blob/main/Task%202%20EC2%20Static%20Website%20HostingTask/SCREENSHOTS/Securtiy%20group.png)
