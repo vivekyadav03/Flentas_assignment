@@ -86,8 +86,8 @@ Click **Next**
 
 
 ## Billing Preferences AWS
-![Billing]()
+![Billing](https://github.com/vivekyadav03/Flentas_assignment/blob/main/Task%204%20Billing%20%26%20Free%20Tier%20Cost%20MonitoringTask/SCREENSHOTS/Billing%20prefernces.png)
 
 ## Billing Alarms AWS
-![Billing]()
+![Billing](https://github.com/vivekyadav03/Flentas_assignment/blob/main/Task%204%20Billing%20%26%20Free%20Tier%20Cost%20MonitoringTask/SCREENSHOTS/Billing%20alarms.png)
 
