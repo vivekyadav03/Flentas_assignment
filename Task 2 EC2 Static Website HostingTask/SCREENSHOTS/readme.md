@@ -29,5 +29,13 @@ This repository can be used for:
 | Imported Instance ID | i-0096bcce81cc5dca8 |
 | Instance ARN         | arn:aws:ec2:eu-north-1:627146568361:instance/i-0096bcce81cc5dca8 |
 
-## Project Structure
+
+### EC2 Screenshot AWS
+![EC2](https://github.com/vivekyadav03/Flentas_assignment/blob/main/Task%202%20EC2%20Static%20Website%20HostingTask/SCREENSHOTS/Nginx.png)
+
+### Nginx Screenshot AWS
+![EC2]()
+
+### Resume_hosting_site Screenshot AWS
+![EC2]()
 
