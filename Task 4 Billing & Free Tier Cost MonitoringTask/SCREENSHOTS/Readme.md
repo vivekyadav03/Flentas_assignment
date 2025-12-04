@@ -86,5 +86,8 @@ Click **Next**
 
 
 ## Billing Preferences AWS
-![]
+![Billing]()
+
+## Billing Alarms AWS
+![Billing]()
 
